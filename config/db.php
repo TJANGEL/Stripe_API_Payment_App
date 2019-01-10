@@ -4,4 +4,4 @@
   define("DB_USER", "root");
   define("DB_PASS", "root");
   // change database name
-  define("DB_NAME", "stripe_payments_db");
+  define("DB_NAME", "paypage");
